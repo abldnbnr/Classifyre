@@ -1,5 +1,5 @@
 # Classifyre
-**PUP Capstone Project – A Web-based Class Scheduling System with Conflict Detection and Automation**
+**PUP Capstone Project – Web-based Class Scheduling System with Conflict Detection and Automation (ASP.NET Core MVC, SQL Server, Tailwind CSS)**
 
 ---
 
